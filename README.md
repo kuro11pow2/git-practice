@@ -78,3 +78,8 @@ $ git pull --all
 ```
 wow
 ```
+
+### 3. Check remote repository
+```
+hello
+```
