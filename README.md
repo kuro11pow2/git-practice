@@ -73,3 +73,13 @@ $ git branch -r | grep -v '\->' | while read remote; do git branch --track "${re
 $ git fetch --all
 $ git pull --all
 ```
+
+### 2. Update readme
+```
+wow
+```
+
+### 3. Check remote repository
+```
+hello
+```
